@@ -5,7 +5,7 @@ This tool is a CLI to set Amazon S3 object life cycle policy.
 
 ## Prerequisite
 1. Required python3 (>3.6)
-2. AWS CLI credentials default settings
+2. AWS CLI credentials default settings  
 https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html
 
 
